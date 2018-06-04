@@ -1,0 +1,7 @@
+/db/*.sqlite
+/public/assets*
+/tmp
+.idea
+.hanamirc
+.env.test
+.env.development
